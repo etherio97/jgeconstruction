@@ -3,6 +3,10 @@
     {
       "source": "/:match*",
       "destination": "https://jewelgoldenelephant.weebly.com/:match*"
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "https://jewelgoldenelephant.weebly.com/editor/uploads/1/1/6/4/116410025/custom_themes/474075513800495827/files/2018/logo/favnavwb.png"
     }
   ]
 }
