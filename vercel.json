@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://jewelgoldenelephant.weebly.com"
+    },
+    {
       "source": "/:match*",
       "destination": "https://jewelgoldenelephant.weebly.com/:match*"
     },
